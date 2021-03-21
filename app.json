@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "by React-native.",
+    "githubUrl": "https://github.com/KiimDoHyun/weather.git"
   }
 }
